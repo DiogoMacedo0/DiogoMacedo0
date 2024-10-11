@@ -1,2 +1,2 @@
 - 👋 Ola o meu nome é Diogo Macedo, nasci em Vizela a 18 anos.
-- 👀 Desde cedo, desenvolvi uma profunda paixão pela tecnologia e por isso segui a minha paixão e ingressei na Universidade de Trás-os-Montes e Alto Douro (UTAD), onde atualmente estou no curso Engenharia Informática, no meu primeiro ano
+- 👀 Desde cedo, desenvolvi uma profunda paixão pela tecnologia e por isso segui a minha paixão e ingressei na Universidade de Trás-os-Montes e Alto Douro (UTAD), onde atualmente estou no curso Engenharia Informática, no meu segundo ano
